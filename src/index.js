@@ -6,6 +6,7 @@ import AppRouter from '~/router';
 import configureStore from '~/store';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './styles/index.scss'
 
 const store = configureStore();
 const jsx = (
